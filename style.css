@@ -1,0 +1,40 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(194, 152, 159);
+}
+.d1{
+    height: 100px;
+    width:100px;
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-left: 650px;
+}
+ .eye1{
+    background-color: rgb(255, 255, 255);
+     border: 50px 50px 0px 25px;
+    border-radius: 30px;
+    height:22px;
+    overflow: hidden;
+    width: 25px;position: relative;
+    left: 770px;top:-30px; 
+}
+.eye2{
+    background-color: rgb(255, 255, 255);
+    border: 50px 50px 0px 25px;
+    border-radius: 30px;
+    height:24px;
+    width: 27px;position: relative;
+    left: 805px;top: -36px; 
+    overflow: hidden;
+}
+.ball{
+    background-color: rgb(33, 24, 24);
+    border: 50px 50px 0px 25px;
+    border-radius: 30px;
+    height:8px;
+    padding: auto;
+    width: 8px;position: relative;
+    left: 296px;top: 8px; 
+    position: absolute;
+} 
